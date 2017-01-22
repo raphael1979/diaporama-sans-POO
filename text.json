@@ -1,26 +1,8 @@
-<ul data-orbit>
-	
-		<li>
-			<img src="/home/raphael/Images/web.jpeg">
-			<div class="orbit-caption">
-				image 1					
-			</div>
-		</li>
-		<li>
-			<div class="orbit-caption">
-				image 2
-			</div>
-		</li>
-		<li>
-			<div class="orbit-caption"></div>
-				image 3
-		</li>
-
 
 {
 	"image 1": "src=/home/raphael/Images/web.jpeg"
-	"titre" : logo 1
-	"image 2": "src=/home/raphael/Images/index.jpeg"
+	"titre" : "logo 1"
+	"image 2" : "src=/home/raphael/Images/index.jpeg"
 	"titre" : "logo2"
 	"image 3" : "src/home/raphael/Images/http.jpeg"
 	"titre" : "logo 3"
